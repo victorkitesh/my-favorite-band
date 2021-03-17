@@ -1,0 +1,75 @@
+h1{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+   font-style: oblique;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 200px;
+    object-fit: initial;
+    
+   
+   
+    
+  }
+  div{
+     background-color: #5D5C61;
+  }
+ 
+   img[src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROw_ctMJ5zLuVMQ_6ta9GQm-ip4YoBiYfT1w&usqp=CAU"]{
+      display: inline;
+      height: 180px;
+      width: 200px;
+    
+  }
+ 
+
+  img[src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLVTwXI_8F8yWcjM1sPW68E75a_PJTalQBg&usqp=CAU"]{
+    display: inline;
+    height: 180px;
+    width: 200px;
+}
+
+img[src="https://www.hellomagazine.com/imagenes/celebrities/2019012066741/who-is-dancing-on-ice-brian-mcfadden-girlfriend-danielle-parkinson/0-314-356/brian-mcfadden-dancing-on-ice-z.jpg"]{
+    display: inline;
+    height: 180px;
+    width: 200px;
+}
+img[src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQal2BiasCHYg3tXWeM34HrqEcxOk_GDiOrQw&usqp=CAU"]{
+    display: inline;
+    height: 180px;
+    width: 200px;
+}
+img[src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIaOSnVy-RNVB0HZ9j7Qm7fWlrsJjVXX56Q&usqp=CAU"]{
+    display: inline;
+    height: 180px;
+    width: 200px;
+}
+ 
+h2{
+    text-align: justify;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: 700;
+    border: 10px; 
+}
+ol{
+    background-color: #5D5C61;
+    font-size: 30px;
+    font-style: italic;
+}
+span{
+color:blue;
+}
+p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+  }
+  em{
+      color: chocolate;
+  }
+  
+  
